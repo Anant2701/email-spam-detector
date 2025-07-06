@@ -47,7 +47,7 @@ This screenshot shows a legitimate email message being correctly identified as *
 
 ![Not Spam Email](assets/not_spam_email.png)
 
-
+This screenshot shows the web application correctly identifying a suspicious email message as **Spam**.
 ![Homepage](assets/homepage.png)
 
 
