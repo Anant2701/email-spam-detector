@@ -38,9 +38,8 @@ Then open (http://127.0.0.1:5000)
 - [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 
-### ✅ Spam Detection Result
-![Spam Result](assets/homepage.png)
+### 🏠 Homepage
+![Homepage](assets/homepage.png)
 
