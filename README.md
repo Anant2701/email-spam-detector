@@ -16,13 +16,23 @@ An AI-powered web application to classify emails as SPAM or NOT SPAM using machi
 
 ## 🚀 Run Locally
 
-```bash
-pip install -r requirements.txt
-python train_model.py
-python app.py
-```
+# 1. Clone the repository
+git clone https://github.com/Anant2701/email-spam-detector.git
 
-Then open [http://127.0.0.1:5000](http://127.0.0.1:5000)
+# 2. Navigate into the project directory
+cd email-spam-detector
+
+# 3. Install required dependencies
+pip install -r requirements.txt
+
+# 4. Train the machine learning model
+python train_model.py
+
+# 5. Start the Flask web application
+python app.py
+
+
+Then open (http://127.0.0.1:5000)
 
 ## 🧠 Dataset
 - [UCI SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
